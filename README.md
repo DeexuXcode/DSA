@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/DeexuXcode/DSA/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/DeexuXcode/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeexuXcode/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 | [0986-interval-list-intersections](https://github.com/DeexuXcode/DSA/tree/master/0986-interval-list-intersections) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/DeexuXcode/DSA/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/DeexuXcode/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeexuXcode/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/DeexuXcode/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeexuXcode/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/DeexuXcode/DSA/tree/master/0986-interval-list-intersections) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/DeexuXcode/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
