@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DeexuXcode/DSA/tree/master/0141-linked-list-cycle) |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -36,8 +37,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/DeexuXcode/DSA/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/DeexuXcode/DSA/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
