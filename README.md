@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DeexuXcode/DSA/tree/master/0141-linked-list-cycle) |
+| [0986-interval-list-intersections](https://github.com/DeexuXcode/DSA/tree/master/0986-interval-list-intersections) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/DeexuXcode/DSA/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
+| [0986-interval-list-intersections](https://github.com/DeexuXcode/DSA/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/DeexuXcode/DSA/tree/master/0621-task-scheduler) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/DeexuXcode/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
